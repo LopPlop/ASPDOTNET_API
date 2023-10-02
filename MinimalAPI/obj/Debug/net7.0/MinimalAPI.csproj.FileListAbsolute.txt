@@ -61,3 +61,8 @@ C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\runtimes\win-a
 C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.csproj.CopyComplete
+C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bruh\source\repos\MinimalAPI\MinimalAPI\obj\Debug\net7.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs

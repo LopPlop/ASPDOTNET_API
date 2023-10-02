@@ -1,4 +1,4 @@
-﻿namespace MinimalAPI.Models
+﻿namespace MinimalAPI.Data.Models
 {
     public class Hotel
     {

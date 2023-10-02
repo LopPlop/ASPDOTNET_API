@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MinimalAPI.Models;
+using MinimalAPI.Data.Models;
 
-namespace MinimalAPI.Controller
+namespace MinimalAPI.Controller.Context
 {
     public class AppDbContext : DbContext
     {
